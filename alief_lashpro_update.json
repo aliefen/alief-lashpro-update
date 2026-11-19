@@ -1,0 +1,14 @@
+{
+  "kind": "update",
+  "product": "ALIEF_LASHPRO",
+  "version": "1.1.0",
+  "date": "2026-11-19",
+  "file": "ALIEF_LASHPRO_Update_1.1.0.exe",
+  "size": 3330363,
+  "sha256": "ccdb94382d791f3600dcda8db7b0bc35b80a62410d599eaec6b56fd6ed8e37fd",
+  "notes": "Laporan baru: format CSM seperti contoh, warna logo Alief, 3 jenis laporan terpisah (Ro-Ro, Container, Equipment)\nEquipment: ukuran dan kekuatan eyelug otomatis (AISC 360-16) dengan gambar 2-D/3-D\nGambar kendaraan dari Stowage_Plan.dxf dan 18 gambar alat dari LASHING_EQUIPMENT.dxf; import model DXF sendiri\nOptimise ALL cases: jenis dan jumlah lashing dipilih otomatis agar semua hasil lulus (termasuk A.581)\nUpdate otomatis: pesan Pasang sekarang / Nanti saat program dibuka dan setiap 6 jam",
+  "min_version": "1.0.0",
+  "url": "https://raw.githubusercontent.com/aliefen/alief-lashpro-update/main/ALIEF_LASHPRO_Update_1.1.0.exe",
+  "issuer": "PT. Alief Energy Utama",
+  "signature": "bH71EQrZIgsHZT/+RlqMOK8bblYNKWwKHohJDMO5WQ5BunHPwD5kZY9WNjZ7Jhffzu9WsdFLQJSu/8hw4pVvDw=="
+}
