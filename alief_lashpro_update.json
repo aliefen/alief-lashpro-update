@@ -4,11 +4,11 @@
   "version": "1.2.0",
   "date": "2026-11-20",
   "file": "ALIEF_LASHPRO_Update_1.2.0.exe",
-  "size": 5132720,
-  "sha256": "787659e2928bfb9a9acd9c914ec0ec456e92f11eb2b609dd35b79949b7f1bdfd",
+  "size": 5200951,
+  "sha256": "1f9ba258b4b40e28872129062e4447ccc74b31611ee8f536512b3b75278632ba",
   "notes": "Area kerja Container seperti Ro-Ro: Panel Stack & fittings dan Panel Tiers (tabbed / berdampingan / jendela sendiri); tier bisa copy-paste dari Excel\nCatalogue: model 3-D bentuk setiap lashing gear; gambar kendaraan di tab Vehicles; bus tingkat 14 m dari BUS_DRAWING.dxf\nFoto / model alat saat memilih titik geladak dan lashing; hanya alat yang cocok dengan titik geladak yang muncul (kolom Fit)\nSatu titik geladak untuk beberapa lashing (MSC.479(102) 4.2.3) dengan ilustrasi; copy-paste lashing dari Excel; optimasi dengan pilihan sudut alfa, beta dan d\nLaporan: halaman Summary, judul bab modern, ilustrasi 3-D (gerakan kapal, gaya, stack container), bab 3.3 dasar rule dan contoh hitungan lengkap\nRule terbaru: CSS Code Annex 13 (MSC.1/Circ.1623) dan IMO Res. MSC.479(102); Tabel 4 B/GM 3-13 untuk proyek baru\nCover 3-D sesuai tipe kapal; laporan disimpan di folder proyek dan langsung terbuka; panah spin box dihilangkan",
   "min_version": "1.0.0",
   "url": "https://raw.githubusercontent.com/aliefen/alief-lashpro-update/main/ALIEF_LASHPRO_Update_1.2.0.exe",
   "issuer": "PT. Alief Energy Utama",
-  "signature": "/+vFIsDnenaLXtYJocggjl599RhIThAW/a6dUbf300/eEDH5hBrTTWGaXoiS9VRKZWcMkyNfHahLyqMjCdKBDw=="
+  "signature": "8Cl9w4LUEppJhjqpfvuxYCOUQDhpeJHy2WwGyupQsrysturDTDbFwL0p5Q4m7sfcal51y+GeSv5k+3LH8EpoBw=="
 }
