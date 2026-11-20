@@ -2,6 +2,8 @@
 
 Server update otomatis **ALIEF LASHING PRO** (PT. Alief Energy Utama).
 
+Versi terbaru: **1.2.0** (20 November 2026).
+
 | File | Isi |
 |---|---|
 | `alief_lashpro_update.json` | Berkas pemberitahuan update bertanda tangan digital (Ed25519): versi, catatan rilis, ukuran dan SHA-256 paket |

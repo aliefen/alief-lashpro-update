@@ -1,14 +1,14 @@
 {
   "kind": "update",
   "product": "ALIEF_LASHPRO",
-  "version": "1.1.0",
-  "date": "2026-11-19",
-  "file": "ALIEF_LASHPRO_Update_1.1.0.exe",
-  "size": 3330363,
-  "sha256": "ccdb94382d791f3600dcda8db7b0bc35b80a62410d599eaec6b56fd6ed8e37fd",
-  "notes": "Laporan baru: format CSM seperti contoh, warna logo Alief, 3 jenis laporan terpisah (Ro-Ro, Container, Equipment)\nEquipment: ukuran dan kekuatan eyelug otomatis (AISC 360-16) dengan gambar 2-D/3-D\nGambar kendaraan dari Stowage_Plan.dxf dan 18 gambar alat dari LASHING_EQUIPMENT.dxf; import model DXF sendiri\nOptimise ALL cases: jenis dan jumlah lashing dipilih otomatis agar semua hasil lulus (termasuk A.581)\nUpdate otomatis: pesan Pasang sekarang / Nanti saat program dibuka dan setiap 6 jam",
+  "version": "1.2.0",
+  "date": "2026-11-20",
+  "file": "ALIEF_LASHPRO_Update_1.2.0.exe",
+  "size": 5132720,
+  "sha256": "787659e2928bfb9a9acd9c914ec0ec456e92f11eb2b609dd35b79949b7f1bdfd",
+  "notes": "Area kerja Container seperti Ro-Ro: Panel Stack & fittings dan Panel Tiers (tabbed / berdampingan / jendela sendiri); tier bisa copy-paste dari Excel\nCatalogue: model 3-D bentuk setiap lashing gear; gambar kendaraan di tab Vehicles; bus tingkat 14 m dari BUS_DRAWING.dxf\nFoto / model alat saat memilih titik geladak dan lashing; hanya alat yang cocok dengan titik geladak yang muncul (kolom Fit)\nSatu titik geladak untuk beberapa lashing (MSC.479(102) 4.2.3) dengan ilustrasi; copy-paste lashing dari Excel; optimasi dengan pilihan sudut alfa, beta dan d\nLaporan: halaman Summary, judul bab modern, ilustrasi 3-D (gerakan kapal, gaya, stack container), bab 3.3 dasar rule dan contoh hitungan lengkap\nRule terbaru: CSS Code Annex 13 (MSC.1/Circ.1623) dan IMO Res. MSC.479(102); Tabel 4 B/GM 3-13 untuk proyek baru\nCover 3-D sesuai tipe kapal; laporan disimpan di folder proyek dan langsung terbuka; panah spin box dihilangkan",
   "min_version": "1.0.0",
-  "url": "https://raw.githubusercontent.com/aliefen/alief-lashpro-update/main/ALIEF_LASHPRO_Update_1.1.0.exe",
+  "url": "https://raw.githubusercontent.com/aliefen/alief-lashpro-update/main/ALIEF_LASHPRO_Update_1.2.0.exe",
   "issuer": "PT. Alief Energy Utama",
-  "signature": "bH71EQrZIgsHZT/+RlqMOK8bblYNKWwKHohJDMO5WQ5BunHPwD5kZY9WNjZ7Jhffzu9WsdFLQJSu/8hw4pVvDw=="
+  "signature": "/+vFIsDnenaLXtYJocggjl599RhIThAW/a6dUbf300/eEDH5hBrTTWGaXoiS9VRKZWcMkyNfHahLyqMjCdKBDw=="
 }
